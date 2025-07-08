@@ -15,3 +15,5 @@ MOST 💹 FREQUENTLY SOLD PRODUCT
 PRODUCT SOLD ACCORDING TO CITY🏙️
 # Data Overview
 https://github.com/sohail7784/e-commerce-analysis-with-PANDAS/blob/main/commerce_only.xlsx
+# Code Overview
+https://github.com/sohail7784/e-commerce-analysis-with-PANDAS/blob/main/e-commerce.ipynb
