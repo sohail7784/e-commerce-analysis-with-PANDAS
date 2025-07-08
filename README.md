@@ -13,3 +13,5 @@ MOST 💹 FREQUENTLY SOLD PRODUCT
 🔄️DAILY ORDER COUNT
 💰REVENUE BY PAYMENT
 PRODUCT SOLD ACCORDING TO CITY🏙️
+# Data Overview
+https://github.com/sohail7784/e-commerce-analysis-with-PANDAS/blob/main/commerce_only.xlsx
